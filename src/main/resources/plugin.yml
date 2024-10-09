@@ -1,0 +1,4 @@
+name: BlocksGiveSlowness
+version: 1.0
+main: com.example.BlocksGiveSlowness.BlocksGiveSlowness
+api-version: 1.16
